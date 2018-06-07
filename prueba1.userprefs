@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WebCamScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\WebCamScript.cs" Line="12" Column="30" />
+      <File FileName="Assets\Scripts\prueba.cs" Line="1" Column="1" />
+      <File FileName="Assets\Material\Grid1.shader" Line="1" Column="1" />
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SeguirCamara.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
